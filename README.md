@@ -19,3 +19,6 @@ Answer: Eigenspaces will be identical (identical eigenvectors, only the eigenval
 
 ![Figure4](https://github.com/revanth802/255_pca_assignment/blob/main/Images/download4.jpeg)
 
+### Average Face obtained from the dataset using PCA
+
+![Figure4](https://github.com/revanth802/255_pca_assignment/blob/main/Images/download5.png)
