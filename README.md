@@ -13,9 +13,9 @@ Answer: Eigenspaces will be identical (identical eigenvectors, only the eigenval
 
 ### Visualize the transformed data and add the labels (class_1 and class_2)
 
-![Figure3](https://github.com/revanth802/255_pca_assignment/blob/main/Images/download3.png)
+![Figure3](https://github.com/revanth802/255_pca_assignment/blob/main/Images/download3.jpeg)
 
 ### Results with that of sklearn library
 
-![Figure4](https://github.com/revanth802/255_pca_assignment/blob/main/Images/download4.png)
+![Figure4](https://github.com/revanth802/255_pca_assignment/blob/main/Images/download4.jpeg)
 
