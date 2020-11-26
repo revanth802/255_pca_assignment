@@ -36,6 +36,7 @@ The pattern which I have observed was that the same expressions of different peo
 Now we can clearly see that there are some instances in which some of the "happy" images are near to the other "happy" images and some "sad" images are near to the other "sad" images.
 
 ### 2. How many components do you need to cover 90% of the total variance?
+Answer: At least 20 components are needed to cover 90% of the total variance
 
 ### 3. Average Face obtained from the dataset using PCA
 
